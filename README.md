@@ -1,5 +1,5 @@
 # testingnewapp
-var fruits = ["banana","orange","cherry","apple"]
+var fruits = ["banana","orange","cherry","apple","kiwi"]
 for f in fruits{
 print("\(f) ", terminator: "")
 }
